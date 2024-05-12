@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "prizmdev@outlook.com",
+                "Name": "VoxelPrismatic"
+            }
+        ],
+        "Category": "",
+        "Description": "Like the default Breeze splash, but Rose Pine Dawn",
+        "Id": "nbl.nebula",
+        "License": "GPLv2",
+        "Name": "Nebula",
+        "Website": "https://github.com/VoxelPrismatic"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
+
